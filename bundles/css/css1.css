@@ -4,6 +4,10 @@ html {
     -webkit-text-size-adjust: 100%
 }
 
+.rtl {
+    direction: rtl;
+}
+
 details, main {
     display: block
 }
@@ -395,9 +399,9 @@ figcaption, figure {
     letter-spacing: .05em
 }
 
-.c-imageText__text {
-    text-align: center
-}
+/*.c-imageText__text {*/
+/*    text-align: center*/
+/*}*/
 
 .c-bg-grad {
     background: linear-gradient(1deg, #212325 0, #042a58 100%);
