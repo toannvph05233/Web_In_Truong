@@ -220,10 +220,10 @@ figcaption, figure {
     transition: .3s;
     color: #fff;
     font-weight: 700;
-    background-color: #ee7f49;
+    background-color: #4663cb;
     border: none;
     width: auto;
-    min-width: 300px
+    min-width: 300px;
 }
 
 .c-button:focus, .c-button:hover {
@@ -400,7 +400,7 @@ figcaption, figure {
 }
 
 .c-bg-grad {
-    background: linear-gradient(90deg, #29a3e3 0, #468ccb 100%)
+    background: linear-gradient(1deg, #212325 0, #042a58 100%);
 }
 
 .c-lang {
@@ -588,7 +588,7 @@ figcaption, figure {
     position: relative;
     width: 100%;
     color: #fff;
-    overflow: hidden
+    overflow: hidden;
 }
 
 .p-mv__head--sp {
@@ -1171,7 +1171,7 @@ figcaption, figure {
 
     .p-mv {
         margin-top: 40px;
-        min-height: calc(720px - 60px)
+        min-height: calc(680px - 60px);
     }
 
     .p-mv__head {
